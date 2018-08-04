@@ -1,0 +1,27 @@
+ .wallpaper {
+	background-image: url("https://newevolutiondesigns.com/images/freebies/galaxy-wallpaper-29.jpg");
+	background-size: 100%;
+ }
+
+h1 {
+
+	color: beige;
+	text-align: center;
+	size: 150%;
+
+
+}
+
+ #mainbody {
+	background-color: pink; 
+	opacity: 0.7; 
+	font-family:'Times New Roman', Times, serif;
+	font-size: 120%;
+	color: black;
+	height: 550px;
+	text-align: center;
+}
+
+#display {
+	font-size: 150%;
+}
